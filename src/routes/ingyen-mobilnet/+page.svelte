@@ -9,7 +9,7 @@
     <div class="space-y-6 text-gray-300">
        <div class="bg-red-900/30 border-l-4 border-red-800 p-3 rounded-r-md mt-3">
         <p class="text-red-400">
-          ⚠️ <strong>Fontos figyelmeztetések:</strong>
+          ⚠️ <strong>Fontos tudnivalók:</strong>
           <ul class="list-disc list-inside space-y-2 mt-2">
             <li>Kevés, de <strong>megvan az esély hogy lekorlátozzák vagy letiltják a SIM kártyádat</strong></li>
             <li>Csak <strong>saját felelősségre</strong> használd, vagy olyan SIM kártyával amit nem sajnálsz</li>
