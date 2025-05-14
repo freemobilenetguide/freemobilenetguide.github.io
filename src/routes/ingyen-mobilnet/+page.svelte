@@ -84,14 +84,24 @@
       <div id="vmess-server" class="bg-gray-800 rounded-lg p-4 mb-6 shadow-md">
         <h2 class="text-2xl font-semibold mb-3 text-green-400">V2Ray VMESS szerver beszerzése</h2>
         <p class="mb-3">Ha sikerült találnod egy zero rated oldalt, akkor kell szerezz egy V2Ray VMESS szervert.</p>
-        
-        <ol class="list-decimal list-inside space-y-2 pl-2 my-3">
-          <li>Ezt akár saját szervereddel is birod hosztolni</li>
-          <li>Az egyszerűség kedvéért generálj egyet itt: <a href="https://sshs8.com/v2ray-best-vmess-server/" class="text-blue-400 underline">https://sshs8.com/v2ray-best-vmess-server/</a></li>
+        <ol class="list-disc list-inside space-y-2 pl-2 my-3">
+          <li>Ezt akár saját szervereddel is bírod hosztolni</li>
+          <li>
+            Az egyszerűség kedvéért itt van két oldal, ahol ingyen tudsz szervert generálni:
+            <ul class="list-disc list-inside pl-4 text-blue-400">
+              <li><a href="https://sshs8.com/v2ray-best-vmess-server/" class="text-blue-400">sshs8.com </a></li>
+              <li><a href="https://www.vpnjantit.com/free-v2ray-vmess" class="text-blue-400">vpnjantit.com <span class="text-white">(itt akár néhány száz forintért több hónapos prémium szervert is vásárolhatsz. Ez nem kötelező, de ajánlott, ha nem szeretnél hetente új szervert generálni.)</span></a></li>
+            </ul>
+          </li>
           <li>Válaszd ki az egyik legközelebbi szervert (pl. Németország) a kis késés érdekében</li>
-          <li>Írj be egy random jelszót majd nyomj rá hogy <span class="font-bold">"Create an Account"</span></li>
+          <li>Írj be egy random jelszót, majd nyomj rá, hogy <span class="font-bold">"Create an Account"</span></li>
           <li>Másold ki az <span class="font-bold">"Link no TLS"</span> értéket az adatok közül</li>
+
         </ol>
+        
+
+
+
         
         <div class="bg-blue-900/30 border-l-4 border-blue-500 p-3 rounded-r-md mt-3">
           <p class="text-blue-300">💡 Ez egy komplett link, amivel nem kell egyesével kimásolnod az adatokat hanem csak simán be tudd illeszteni ezt az appba ami kelleni fog ehhez.</p>
