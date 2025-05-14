@@ -13,8 +13,8 @@
           <ul class="list-disc list-inside space-y-2 mt-2">
             <li>Kevés, de <strong>megvan az esély hogy lekorlátozzák vagy letiltják a SIM kártyádat</strong></li>
             <li>Csak <strong>saját felelősségre</strong> használd, vagy olyan SIM kártyával amit nem sajnálsz</li>
-            <li>A leírtak <strong>kizárólag oktatási célból</strong> ("educational purposes only") lettek megosztva</li>
-            <li>Ez a módszer a <strong>Yettel ÁSZF ellen van</strong></li>
+            <li>A leírtak <strong>kizárólag oktatási célból</strong> lettek megosztva</li>
+            <li>Az alábbiakban leírt módszer nagy valószínűséggel a SIM szolgáltatód <strong>ÁSZF-e ellen van</strong></li>
             <li>Ha a telefonod támogatja a <strong>Dual SIM-et</strong>, ajánlott egy új, olcsó SIM kártyát használni</li>
             <li>A SIM aktiválásához <strong>minimum 14 éves életkor szükséges</strong></li>
           </ul>
