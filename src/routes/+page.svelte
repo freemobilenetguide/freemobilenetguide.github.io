@@ -21,9 +21,9 @@
                     <h2 class="text-2xl font-bold mb-4 text-green-400">V2Ray V2mess Szerver Hostolás</h2>
                     <p class="text-gray-300 mb-4">Saját V2Ray szerver létrehozásának lépései és konfiguráció.</p>
                     <div class="mt-auto">
-                        <a href="#" class="inline-block bg-gray-600 cursor-not-allowed text-gray-400 font-semibold py-2 px-4 rounded transition-colors">
+                        <button type="button" disabled class="inline-block bg-gray-600 cursor-not-allowed text-gray-400 font-semibold py-2 px-4 rounded transition-colors">
                             Hamarosan
-                        </a>
+                        </button>
                     </div>
                 </div>
             </div>
